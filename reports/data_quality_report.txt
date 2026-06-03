@@ -1,0 +1,73 @@
+BLUESTOCK DATA QUALITY REPORT
+Generated: 2026-06-03 20:03:08.568093
+================================================================================
+
+fund_master
+--------------------------------------------------
+Rows: 40
+Columns: 15
+Missing Values: 0
+Duplicates: 0
+
+nav_history
+--------------------------------------------------
+Rows: 46000
+Columns: 3
+Missing Values: 0
+Duplicates: 0
+
+aum_by_fund_house
+--------------------------------------------------
+Rows: 90
+Columns: 5
+Missing Values: 0
+Duplicates: 0
+
+monthly_sip_inflows
+--------------------------------------------------
+Rows: 48
+Columns: 6
+Missing Values: 12
+Duplicates: 0
+
+category_inflows
+--------------------------------------------------
+Rows: 144
+Columns: 3
+Missing Values: 0
+Duplicates: 0
+
+industry_folio_count
+--------------------------------------------------
+Rows: 21
+Columns: 6
+Missing Values: 0
+Duplicates: 0
+
+scheme_performance
+--------------------------------------------------
+Rows: 40
+Columns: 19
+Missing Values: 0
+Duplicates: 0
+
+investor_transactions
+--------------------------------------------------
+Rows: 32778
+Columns: 13
+Missing Values: 0
+Duplicates: 0
+
+portfolio_holdings
+--------------------------------------------------
+Rows: 322
+Columns: 8
+Missing Values: 0
+Duplicates: 0
+
+benchmark_indices
+--------------------------------------------------
+Rows: 8050
+Columns: 3
+Missing Values: 0
+Duplicates: 0

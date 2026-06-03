@@ -1,0 +1,13 @@
+2026-06-03 20:03:08,126 | INFO | Data ingestion started
+2026-06-03 20:03:08,131 | INFO | Loaded 01_fund_master.csv
+2026-06-03 20:03:08,194 | INFO | Loaded 02_nav_history.csv
+2026-06-03 20:03:08,217 | INFO | Loaded 03_aum_by_fund_house.csv
+2026-06-03 20:03:08,226 | INFO | Loaded 04_monthly_sip_inflows.csv
+2026-06-03 20:03:08,258 | INFO | Loaded 05_category_inflows.csv
+2026-06-03 20:03:08,281 | INFO | Loaded 06_industry_folio_count.csv
+2026-06-03 20:03:08,309 | INFO | Loaded 07_scheme_performance.csv
+2026-06-03 20:03:08,381 | INFO | Loaded 08_investor_transactions.csv
+2026-06-03 20:03:08,442 | INFO | Loaded 09_portfolio_holdings.csv
+2026-06-03 20:03:08,560 | INFO | Loaded 10_benchmark_indices.csv
+2026-06-03 20:03:08,785 | INFO | AMFI validation complete
+2026-06-03 20:03:08,789 | INFO | Data ingestion completed

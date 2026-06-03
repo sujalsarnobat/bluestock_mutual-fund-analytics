@@ -1,0 +1,11 @@
+dataset,rows,columns,missing_values,duplicates
+fund_master,40,15,0,0
+nav_history,46000,3,0,0
+aum_by_fund_house,90,5,0,0
+monthly_sip_inflows,48,6,12,0
+category_inflows,144,3,0,0
+industry_folio_count,21,6,0,0
+scheme_performance,40,19,0,0
+investor_transactions,32778,13,0,0
+portfolio_holdings,322,8,0,0
+benchmark_indices,8050,3,0,0
