@@ -1,0 +1,11 @@
+BLUESTOCK DATABASE LOAD REPORT
+============================================================
+
+dim_fund                               40
+dim_date                            1,608
+fact_nav                           46,000
+fact_transactions                  32,778
+fact_performance                       40
+fact_portfolio                        322
+fact_aum                               90
+fact_sip_industry                      48

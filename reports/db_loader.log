@@ -1,0 +1,70 @@
+2026-06-04 15:35:17,997 | INFO | Database loading started
+2026-06-04 15:35:18,001 | INFO | Foreign key constraints enabled
+2026-06-04 15:35:18,078 | INFO | Schema applied
+2026-06-04 15:35:18,079 | INFO | dim_fund loaded (0 rows)
+2026-06-04 15:35:18,080 | INFO | dim_date generated
+2026-06-04 15:35:18,080 | INFO | fact_nav loaded (0 rows)
+2026-06-04 15:35:18,081 | INFO | fact_transactions loaded (0 rows)
+2026-06-04 15:35:18,082 | INFO | fact_performance loaded (0 rows)
+2026-06-04 15:35:18,082 | INFO | fact_portfolio loaded (0 rows)
+2026-06-04 15:35:18,082 | INFO | fact_aum loaded (0 rows)
+2026-06-04 15:35:18,082 | INFO | fact_sip_industry loaded (0 rows)
+2026-06-04 15:35:18,090 | INFO | Database load report generated
+2026-06-04 15:35:18,092 | INFO | Database load report generated
+2026-06-04 15:35:18,094 | INFO | Database loading completed
+2026-06-04 15:38:00,636 | INFO | Database loading started
+2026-06-04 15:38:00,723 | INFO | Existing database removed
+2026-06-04 15:38:00,729 | INFO | Foreign key constraints enabled
+2026-06-04 15:38:00,811 | INFO | Schema applied
+2026-06-04 15:38:00,842 | INFO | dim_fund loaded (40 rows)
+2026-06-04 15:38:00,917 | INFO | dim_date generated
+2026-06-04 15:38:01,286 | INFO | fact_nav loaded (46,000 rows)
+2026-06-04 15:38:01,361 | INFO | Generated transaction IDs
+2026-06-04 15:38:01,831 | INFO | fact_transactions loaded (32,778 rows)
+2026-06-04 15:41:39,339 | INFO | Database loading started
+2026-06-04 15:41:39,339 | INFO | Foreign key constraints enabled
+2026-06-04 15:41:39,430 | INFO | Schema applied
+2026-06-04 15:41:39,446 | INFO | dim_fund loaded (40 rows)
+2026-06-04 15:41:39,520 | INFO | dim_date generated
+2026-06-04 15:41:39,841 | INFO | fact_nav loaded (46,000 rows)
+2026-06-04 15:41:39,899 | INFO | Generated transaction IDs
+2026-06-04 15:41:40,434 | INFO | fact_transactions loaded (32,778 rows)
+2026-06-04 15:41:40,448 | INFO | fact_performance loaded (40 rows)
+2026-06-04 15:42:49,603 | INFO | Database loading started
+2026-06-04 15:42:49,605 | INFO | Existing database removed
+2026-06-04 15:42:49,606 | INFO | Foreign key constraints enabled
+2026-06-04 15:42:49,719 | INFO | Schema applied
+2026-06-04 15:42:49,738 | INFO | dim_fund loaded (40 rows)
+2026-06-04 15:42:49,821 | INFO | dim_date generated
+2026-06-04 15:42:50,066 | INFO | fact_nav loaded (46,000 rows)
+2026-06-04 15:42:50,118 | INFO | Generated transaction IDs
+2026-06-04 15:42:50,461 | INFO | fact_transactions loaded (32,778 rows)
+2026-06-04 15:42:50,469 | INFO | fact_performance loaded (40 rows)
+2026-06-04 15:42:50,482 | INFO | fact_portfolio loaded (322 rows)
+2026-06-04 15:43:57,416 | INFO | Database loading started
+2026-06-04 15:43:57,419 | INFO | Existing database removed
+2026-06-04 15:43:57,420 | INFO | Foreign key constraints enabled
+2026-06-04 15:43:57,545 | INFO | Schema applied
+2026-06-04 15:43:57,556 | INFO | dim_fund loaded (40 rows)
+2026-06-04 15:43:57,624 | INFO | dim_date generated
+2026-06-04 15:43:57,963 | INFO | fact_nav loaded (46,000 rows)
+2026-06-04 15:43:58,023 | INFO | Generated transaction IDs
+2026-06-04 15:43:58,421 | INFO | fact_transactions loaded (32,778 rows)
+2026-06-04 15:43:58,441 | INFO | fact_performance loaded (40 rows)
+2026-06-04 15:43:58,450 | INFO | fact_portfolio loaded (322 rows)
+2026-06-04 15:46:28,568 | INFO | Database loading started
+2026-06-04 15:46:28,610 | INFO | Existing database removed
+2026-06-04 15:46:28,616 | INFO | Foreign key constraints enabled
+2026-06-04 15:46:28,709 | INFO | Schema applied
+2026-06-04 15:46:28,727 | INFO | dim_fund loaded (40 rows)
+2026-06-04 15:46:28,801 | INFO | dim_date generated
+2026-06-04 15:46:28,990 | INFO | fact_nav loaded (46,000 rows)
+2026-06-04 15:46:29,055 | INFO | Generated transaction IDs
+2026-06-04 15:46:29,566 | INFO | fact_transactions loaded (32,778 rows)
+2026-06-04 15:46:29,579 | INFO | fact_performance loaded (40 rows)
+2026-06-04 15:46:29,595 | INFO | fact_portfolio loaded (322 rows)
+2026-06-04 15:46:29,604 | INFO | fact_aum loaded (90 rows)
+2026-06-04 15:46:29,624 | INFO | fact_sip_industry loaded (48 rows)
+2026-06-04 15:46:29,627 | INFO | Database load report generated
+2026-06-04 15:46:29,627 | INFO | Database load report generated
+2026-06-04 15:46:29,628 | INFO | Database loading completed
